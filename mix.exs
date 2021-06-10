@@ -98,7 +98,7 @@ defmodule GroupherServer.Mixfile do
       # mem cache
       {:cachex, "3.3.0"},
       # postgres-backed job queue
-      {:rihanna, "1.3.5"},
+      {:rihanna, "2.3.1"},
       # cron-like scheduler job
       {:quantum, "~> 2.3"},
       {:html_sanitize_ex, "~> 1.3"},
