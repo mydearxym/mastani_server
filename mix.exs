@@ -108,7 +108,7 @@ defmodule GroupherServer.Mixfile do
       # https://github.com/cataska/pangu.ex
       {:pangu, "~> 0.1.0"},
       {:accessible, "~> 0.3.0"},
-      {:floki, "~> 0.30.1"}
+      {:floki, "~> 0.31.0"}
     ]
   end
 
