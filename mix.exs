@@ -96,7 +96,7 @@ defmodule GroupherServer.Mixfile do
       # mailer
       {:bamboo, "1.3.0"},
       # mem cache
-      {:cachex, "3.3.0"},
+      {:cachex, "3.4.0"},
       # postgres-backed job queue
       {:rihanna, "1.3.5"},
       # cron-like scheduler job
